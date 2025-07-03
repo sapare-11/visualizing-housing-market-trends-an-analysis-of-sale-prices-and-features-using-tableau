@@ -18,13 +18,7 @@ Dive into real estate data to find out what makes a house valuable — from cozy
 
 ## 🔗 View Dashboard
 
-🎯 [Explore the Live Tableau Dashboard](https://public.tableau.com/views/dasboard_175128640655
-
-80/Dashboard1?:language=en-
-
-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:
-
-origin=viz_share_link)
+🎯 [Explore the Live Tableau Dashboard](https://public.tableau.com/views/dasboard_17512864065580/Dashboard1?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 *Interact with filters, hover on maps, and analyze features visually.*
 
@@ -40,13 +34,14 @@ origin=viz_share_link)
 
 ## 🖼️ Preview
 
-![Dashboard Sample](images/dashboard_sample.png)
+![Dashboard Sample](![Screenshot of  Tableau public dashboard](https://github.com/user-attachments/assets/66a566b7-acd7-4b52-aa12-6816c43a843c))
+
 
 ---
 
-## 📚 Data Source
+## 📚 Data Set Link
 
-- [Ames Housing Dataset on Kaggle](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset)
+- [Ames Housing Dataset on Kaggle](https://drive.google.com/file/d/1p1uuGWuafO6CqH6gqt6STzEP7HnGzewC/view?usp=drive_link)
 
 ---
 
