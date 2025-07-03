@@ -34,7 +34,7 @@ Dive into real estate data to find out what makes a house valuable — from cozy
 
 ## 🖼️ Preview
 
-![Dashboard Sample](![Screenshot of  Tableau public dashboard](https://github.com/user-attachments/assets/66a566b7-acd7-4b52-aa12-6816c43a843c))
+![Screenshot of  Tableau public dashboard](https://github.com/user-attachments/assets/66a566b7-acd7-4b52-aa12-6816c43a843c)
 
 
 ---
