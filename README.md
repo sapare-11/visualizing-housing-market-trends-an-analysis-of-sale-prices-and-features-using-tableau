@@ -18,7 +18,13 @@ Dive into real estate data to find out what makes a house valuable — from cozy
 
 ## 🔗 View Dashboard
 
-🎯 [Explore the Live Tableau Dashboard](https://public.tableau.com/views/YourDashboardLinkHere)
+🎯 [Explore the Live Tableau Dashboard](https://public.tableau.com/views/dasboard_175128640655
+
+80/Dashboard1?:language=en-
+
+US&publish=yes&:sid=&:redirect=auth&:display_count=n&:
+
+origin=viz_share_link)
 
 *Interact with filters, hover on maps, and analyze features visually.*
 
